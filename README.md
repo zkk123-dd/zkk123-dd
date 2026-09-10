@@ -4,8 +4,8 @@
 
 **福州大学 · 软件工程 · 数据采集与融合方向**
 
-[![GitHub](https://img.shields.io/badge/GitHub-zkk123-dd-181717?style=for-the-badge&logo=github)](https://github.com/zkk123-dd)
-[![Blog](https://img.shields.io/badge/博客园-技术随笔-2E8B57?style=for-the-badge&logo=cncf&logoColor=white)](https://www.cnblogs.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-zkk123--dd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zkk123-dd)
+[![Blog](https://img.shields.io/badge/博客园-技术随笔-2E8B57?style=for-the-badge)](https://www.cnblogs.com/)
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-3.1-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
